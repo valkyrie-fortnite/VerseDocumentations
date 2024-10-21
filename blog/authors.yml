@@ -1,0 +1,21 @@
+system:
+  name: "System"
+  title: " "
+  url: "http://localhost"
+  image_url: "/img/logo.svg"
+  page: 
+    permalink: "/pages"
+
+user:
+  name: "UserName"
+  title: "UserTitle"
+  url: "http://localhost"
+  image_url: "http://localhost"
+  page:
+    # customize the url of the author page at /blog/authors/<permalink>
+    permalink: "/user-pages"
+  socials:
+    twitter: "twitter"
+    linkedin: "linkedin"
+    github: "github"
+    newsletter: "newsletter"
